@@ -14,43 +14,31 @@
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "calculate",
         "Elements",
-        "Button1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "membership",
-        "Elements",
-        "Input1.json"
+        "Button2.json"
       ]
     }
   ],
   "class": "",
   "designHeight": 0,
   "designWidth": 0,
-  "events": "onkeypress",
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "membership",
+  "id": "calculate",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
   "modal": "false",
   "onhide": "",
-  "onkeypress": "membership.onkeypress()",
+  "onkeypress": "",
   "onresize": "",
   "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
